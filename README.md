@@ -1,6 +1,6 @@
-**NAME**: P.PAVAN KUMAR
+**NAME**: KARPURAM VENKATESH
 **Company**: CODETECH IT SOLUTIONS
-**ID**: CT12WDDU
+**ID**: CT12WDDL
 **Domain**: EMBEDDED SYSTEMS
 **Duration**: December 9,2024 to March 29,2025
 **Mentor**: NEELA SANTHOSH
